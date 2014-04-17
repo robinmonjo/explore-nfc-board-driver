@@ -42,4 +42,4 @@ For a full install, just `cp` the binary to `/usr/local/bin`
 ### Resources
 
 * [Mifare Ultralight datasheet](http://www.nxp.com/documents/data_sheet/MF0ICU1.pdf)
-* [Code used as a starter](https://github.com/JohnMcLear/NXP-Raspberry-Pi-Card-Polling-Demo)
+* [Code used as a starter](https://github.com/JohnMcLear/NXP-Raspberry-Pi-Card-Polling-Demo), huge thx to John McLear
